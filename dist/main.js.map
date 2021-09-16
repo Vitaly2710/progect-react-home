@@ -1,0 +1,1 @@
+{"version":3,"file":"main.js","mappings":";;;;;AAAA,MAAMA,GAAG,GAAG;AACRC,EAAAA,GAAG,EAAE,KADG;AAERC,EAAAA,IAAI,EAAE;AAFE,CAAZ;AAKAC,OAAO,CAACC,GAAR,CAAYJ,GAAZ,E","sources":["webpack:///./src/index.js"],"sourcesContent":["const obj = {\r\n    foo: 'hey',\r\n    bazz: 'hello'\r\n}\r\n\r\nconsole.log(obj)"],"names":["obj","foo","bazz","console","log"],"sourceRoot":""}
