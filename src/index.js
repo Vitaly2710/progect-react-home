@@ -1,3 +1,5 @@
+import "./styles/index.css"
+
 const obj = {
     foo: 'hey',
     bazz: 'hello'

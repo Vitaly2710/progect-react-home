@@ -1,0 +1,1 @@
+{"version":3,"file":"main.css","mappings":";;;AAAA;IACI,2BAA2B;IAC3B,SAAS;AACb,C","sources":["webpack:///./src/styles/index.css"],"sourcesContent":["body {\r\n    background-color: peachpuff;\r\n    margin: 0;\r\n}"],"names":[],"sourceRoot":""}
